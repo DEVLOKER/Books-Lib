@@ -1,0 +1,30 @@
+body, #root {
+    background: #EEEEEE;
+}
+.body {
+    margin: 0;
+    padding: 0;
+    margin-top: 70px;
+    width: 100vw;
+    min-height: calc(100vh - 294px);
+    /* background: #ccc; */
+}
+
+.body > div.container, .body .d-grid > div.container {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.table tr{
+    background: var(--fifth);
+}
+
+.table img.card-img-top {
+    width: 70px;
+}
+
+span.title {
+    color: var(--third);
+    opacity: 0.6;
+}

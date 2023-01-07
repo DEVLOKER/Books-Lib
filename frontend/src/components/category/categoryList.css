@@ -1,0 +1,15 @@
+.category-list {
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.category-list .btn.edit {
+    background: var(--forth);
+    color: #fff;
+}
+
+.category-list .btn.desactivate {
+    background: var(--third);
+    color: #fff;
+}

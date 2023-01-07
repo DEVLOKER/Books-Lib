@@ -1,0 +1,23 @@
+.starts {
+    display: flex; justify-content: center; align-items: center; flex-direction: row;
+}
+.starts .star{
+    cursor: pointer;
+    color: #aaa;
+}
+.starts .selected{
+    color: darkorange;
+}
+.starts .star.zero{
+    color: transparent;
+}
+
+.starts .star svg{
+    width: 35px;
+    height: 35px;
+}
+
+.card .btn.evaluate{
+    background: var(--forth);
+    color: #ffffff;
+}

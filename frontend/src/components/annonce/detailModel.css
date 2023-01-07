@@ -1,0 +1,56 @@
+.card.detail {
+    border-width: 0px;
+}
+.card.detail .row.image {
+    height: 220px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--secondary);
+    margin: 0;
+    padding: 0;
+    border-radius: 20px 20px 0px 0px;
+}
+.card.detail .actions {
+    background: var(--fifth);
+    margin: 0;
+    padding: 3px;
+    border-radius: 0px 0px 20px 20px;
+}
+.card.detail .actions div.col-3 {
+    display: flex;
+    justify-content: center;
+}
+.card.detail .actions .text-center{
+    cursor: pointer;
+}
+.card.detail .actions .text-center svg {
+    width: 25px;
+    height: 25px;
+}
+
+.card.detail .actions .evaluate {
+    color: darkorange;
+}
+
+.card.detail .actions .favoured, .card.detail .actions .favorite {
+    /* color: #ffc107; */
+    color: var(--primary);
+}
+
+.card.detail .actions .contact {
+    color: var(--third);
+}
+
+.card.detail .actions .report {
+    color: red;
+}
+
+.seller .btn.send{
+    background: var(--sixth);
+    color: var(--third);
+}
+.seller .btn.send:hover{
+    /* color: var(--secondary);
+    background: var(--third); */
+}

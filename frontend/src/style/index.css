@@ -1,0 +1,38 @@
+:root {
+    --primary: #ff2359;
+    --secondary: #f3e9e1;
+    --third: #261202;
+    --forth:  darkorange;
+    --fifth: #f2f2f2;
+    --sixth: #ffc107;
+}
+
+.nav-pills .nav-link {
+    color: var(--third);
+}
+
+.nav-pills .nav-link.active {
+    background: var(--third);
+    color: #ffffff;
+}
+
+
+.accordion-button{
+    background-color: var(--secondary);
+}
+
+.accordion-button:focus{
+    border-color: var(--secondary);
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--secondary);
+    background-color: var(--secondary);
+}
+
+.accordion-button:not(.collapsed) {
+    color: var(--third);
+    background-color: var(--secondary);
+    box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--secondary);
+}
+
+.accordion-button:not(.collapsed)::after{
+    transform: var(--bs-accordion-btn-icon-transform);
+}

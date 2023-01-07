@@ -1,0 +1,28 @@
+.container.ajouter-livre-form form, .container.modifie-livre-form form {
+    background: #eeeeee;
+}
+
+.vendeur-image .input-group-text {
+    background: #ffffff;
+    cursor: pointer;
+}
+.vendeur-image input[type=file] {
+    visibility: hidden;
+}
+
+.vendeur-image label.input-group-text{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: end;
+}
+.container.ajouter-livre-form .btn.publish {
+    background: var(--primary);
+    color: #fff;
+}
+
+.modifie-livre-form .btn.edit {
+    background: var(--forth);
+    color: #fff;
+}

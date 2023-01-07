@@ -1,0 +1,20 @@
+.category-form{
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.manage-category {
+    background: var(--fifth);
+}
+
+.manage-category .btn.add {
+    background: var(--primary);
+    color: #fff;
+}
+
+.manage-category .btn.edit {
+    background: var(--forth);
+    color: #fff;
+}
+

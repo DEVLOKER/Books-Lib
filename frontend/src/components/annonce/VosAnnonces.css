@@ -1,0 +1,16 @@
+.vos-livres img {
+
+}
+.vos-livres .table {
+    background: #eeeeee;
+}
+
+.vos-livres .btn.edit {
+    background: var(--forth);
+    color: #fff;
+}
+
+.vos-livres .btn.desactive {
+    background: var(--third);
+    color: #fff;
+}

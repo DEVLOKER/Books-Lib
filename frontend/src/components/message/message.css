@@ -1,0 +1,15 @@
+.message {
+    background: #EEEEEE;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.message.left {
+    background: var(--primary);
+    color: #ffffff;
+}
+
+.message.right {
+    background: var(--secondary);
+    color: var(--third);
+}

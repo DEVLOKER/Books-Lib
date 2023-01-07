@@ -1,0 +1,26 @@
+.reports-list{
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.reports-list .detail{
+    background: var(--sixth);
+    color: var(--third);
+}
+.reports-list .keep {
+    background: var(--forth);
+    color: #ffffff;
+}
+.reports-list .desactivateAnnonce {
+    background: darkred;
+    color: #ffffff;
+}
+.reports-list .desactivatePublisher {
+    background: var(--third);
+    color: #ffffff;
+}
+.reports-list .cancel {
+    background: #aaaaaa;
+    color: #ffffff;
+}
