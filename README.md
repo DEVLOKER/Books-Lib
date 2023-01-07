@@ -42,4 +42,5 @@ this script will create:
 
 ### Admin
 ![manage categories](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_categories.jpg?raw=true "manage categories")
-![manage reports](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_reports.jpg?raw=true "manage reports")
+![reports list](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_reports.jpg?raw=true "reports list")
+![manage reports](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_reports_2.jpg?raw=true "manage reports")
