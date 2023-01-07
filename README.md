@@ -27,19 +27,19 @@ this script will create:
 ## Screenshots
 
 ### Seller
-![login page](https://github.com/DEVLOKER/Books-Lib/screenshots/login.jpg?raw=true "login page")
-![signup page](https://github.com/DEVLOKER/Books-Lib/screenshots/signup.jpg?raw=true "signup page")
-![publish a book](https://github.com/DEVLOKER/Books-Lib/screenshots/publish_book.jpg?raw=true "publish a book")
-![seller books](https://github.com/DEVLOKER/Books-Lib/screenshots/seller_books.jpg?raw=true "seller books")
+![login page](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/login.jpg?raw=true "login page")
+![signup page](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/signup.jpg?raw=true "signup page")
+![publish a book](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/publish_book.jpg?raw=true "publish a book")
+![seller books](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/seller_books.jpg?raw=true "seller books")
 
 ### Buyer
-![available books list](https://github.com/DEVLOKER/Books-Lib/screenshots/books_list.jpg?raw=true "available books list")
-![book detail](https://github.com/DEVLOKER/Books-Lib/screenshots/book_detail.jpg?raw=true "book detail")
-![rate a book ](https://github.com/DEVLOKER/Books-Lib/screenshots/rate_book.jpg?raw=true "rate a book")
-![report a book](https://github.com/DEVLOKER/Books-Lib/screenshots/report_book.jpg?raw=true "report a book")
-![whishlist books](https://github.com/DEVLOKER/Books-Lib/screenshots/whishlist.jpg?raw=true "whishlist books")
-![book price negotiation](https://github.com/DEVLOKER/Books-Lib/screenshots/messages.jpg?raw=true "book price negotiation")
+![available books list](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/books_list.jpg?raw=true "available books list")
+![book detail](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/book_detail.jpg?raw=true "book detail")
+![rate a book ](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/rate_book.jpg?raw=true "rate a book")
+![report a book](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/report_book.jpg?raw=true "report a book")
+![whishlist books](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/whishlist.jpg?raw=true "whishlist books")
+![book price negotiation](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/messages.jpg?raw=true "book price negotiation")
 
 ### Admin
-![manage categories](https://github.com/DEVLOKER/Books-Lib/screenshots/manage_categories.jpg?raw=true "manage categories")
-![manage reports](https://github.com/DEVLOKER/Books-Lib/screenshots/manage_reports.jpg?raw=true "manage reports")
+![manage categories](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_categories.jpg?raw=true "manage categories")
+![manage reports](https://github.com/DEVLOKER/Books-Lib/blob/main/screenshots/manage_reports.jpg?raw=true "manage reports")
