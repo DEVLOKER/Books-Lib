@@ -12,15 +12,15 @@ Web application for buying books, created using Spring Boot and React.
 - after the server is running, all the tables will create automatically in `bookslib` schema.
 if you want to use tested data, use the script `database/testData.sql`
 this script will create:
-- three users:
+  * three users:
 
 | username | password | type  |
-| :--- | :---: | ---: |
+| :---: | :---: | :---: |
 | `admin@gmail.com` | `admin` | admin |
 | `user01@gmail.com` | `1111` | normal user |
 | `user02@gmail.com` | `2222` | normal user |
 
-- two categories: `SPRING BOOT`, `Reactjs`.
+  * two categories: `SPRING BOOT`, `Reactjs`.
 
 ### Frontend
 - `cd frontend && npm install`
