@@ -13,11 +13,13 @@ Web application for buying books, created using Spring Boot and React.
 if you want to use tested data, use the script `database/testData.sql`
 this script will create:
 - three users:
-| username        | password           | type  |
-| ------------- |:-------------:| -----:|
+
+| username | password | type  |
+| :--- | :---: | ---: |
 | `admin@gmail.com` | `admin` | admin |
 | `user01@gmail.com` | `1111` | normal user |
 | `user02@gmail.com` | `2222` | normal user |
+
 - two categories: `SPRING BOOT`, `Reactjs`.
 
 ### Frontend
